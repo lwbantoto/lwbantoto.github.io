@@ -1,4 +1,4 @@
 # personal website
-* domain name: [Google Domains](https://domains.google.com) 
-* website host: [Github Pages](https://pages.github.com/)
-* DNS provider: [Cloudflare](https://www.cloudflare.com/)
+[google domains](https://domains.google.com) 
+[github pages](https://pages.github.com/)
+[cloudflare](https://www.cloudflare.com/)
