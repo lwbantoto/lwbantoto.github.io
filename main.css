@@ -14,11 +14,11 @@ html,body {
 }
 
 .title {
-	font-size: 180%;
+	font-size: 1.8em;
 }
 
 .about {
-	font-size: 170%;
+	font-size: 1.7em;	
 	display: flex;
 	justify-content: center;
   
