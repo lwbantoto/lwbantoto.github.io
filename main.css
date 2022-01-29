@@ -23,7 +23,7 @@ html,body {
 
 /* formatting fr the about class */
 .about {
-	font-size: 1.7em;	
+	font-size: 1.4em;	
 	display: flex;
 	justify-content: center;
 	text-size-adjust: auto;
