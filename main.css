@@ -1,6 +1,6 @@
 html,body {
 	margin:0.5;
-	padding:0.5;
+	padding:0.5em;
 	background: none;
 	text-align: center;
 	font-family: 'Faustina', sans-serif;
@@ -11,18 +11,14 @@ html,body {
 	height: 100%;
 	background: #FFFFFF; /* snow */
 	background-size: cover;
-	padding-top: 3em;
-	/* max-width: 40em; */
-	/* margin-left: auto; */
-	/* margin: auto; */
 }
 
 .title {
-	font-size: 130%;
+	font-size: 180%;
 }
 
 .about {
-	font-size: 100%;
+	font-size: 170%;
 	display: flex;
 	justify-content: center;
   
