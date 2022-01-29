@@ -6,6 +6,7 @@ html,body {
 	text-align: center;
 	font-family: 'Faustina', sans-serif;
 	padding-left: 1.1em;
+	padding-right: 1.1em;
 
 }
 
@@ -30,7 +31,6 @@ html,body {
 	display: flex;
 	justify-content: center;
 	text-size-adjust: auto;
-	padding-left: 1.05em
 }
 
 /* changes external link opacity if hovered over it */
