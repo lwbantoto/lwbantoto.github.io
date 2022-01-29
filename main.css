@@ -21,6 +21,7 @@ html,body {
 .title {
 	font-size: 1.8em;
 	text-size-adjust: auto;
+	text-align:left;
 }
 
 /* formatting fr the about class */
@@ -29,6 +30,7 @@ html,body {
 	display: flex;
 	justify-content: center;
 	text-size-adjust: auto;
+	padding-left: 1.05em
 }
 
 /* changes external link opacity if hovered over it */
